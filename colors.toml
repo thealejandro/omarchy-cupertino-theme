@@ -1,0 +1,33 @@
+# Cupertino — minimal, macOS-inspired dark theme (Apple system colors, dark appearance)
+mode = "dark"
+
+accent = "#0a84ff"
+selection = "#3a3a3c"
+selection_foreground = "#f5f5f7"
+muted = "#636366"
+
+background = "#1c1c1e"
+dark_background = "#161618"
+darker_background = "#111113"
+lighter_background = "#2c2c2e"
+
+foreground = "#e5e5ea"
+dark_foreground = "#8e8e93"
+light_foreground = "#d1d1d6"
+bright_foreground = "#f5f5f7"
+
+red = "#ff453a"
+yellow = "#ffd60a"
+orange = "#ff9f0a"
+green = "#32d74b"
+cyan = "#64d2ff"
+blue = "#0a84ff"
+magenta = "#bf5af2"
+brown = "#ac8e68"
+
+bright_red = "#ff6961"
+bright_yellow = "#ffe066"
+bright_green = "#5de87a"
+bright_cyan = "#8adcff"
+bright_blue = "#409cff"
+bright_magenta = "#da8fff"
